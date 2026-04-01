@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;display=swap');
+      .title { font: 500 20px 'JetBrains Mono', monospace; fill: #e6edf3; }
+      .body { font: 400 14px 'JetBrains Mono', monospace; fill: #9198a1; }
+      .accent { font: 400 13px 'JetBrains Mono', monospace; fill: #58a6ff; }
+    </style>
+    <rect id="bg" width="800" height="320" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  </defs>
+  <use href="#bg"/>
+  <text class="title" x="400" y="60" text-anchor="middle">Hey! I'm JP.</text>
+  <text class="body" x="400" y="110" text-anchor="middle">I'm currently building a game server emulator from scratch —</text>
+  <text class="body" x="400" y="132" text-anchor="middle">reverse engineering client binaries, decoding network protocols,</text>
+  <text class="body" x="400" y="154" text-anchor="middle">and reconstructing undocumented systems.</text>
+  <text class="body" x="400" y="200" text-anchor="middle">Currently working with C#, .NET, Node.js, and xUnit,</text>
+  <text class="body" x="400" y="222" text-anchor="middle">spending most of my time somewhere between packet captures</text>
+  <text class="body" x="400" y="244" text-anchor="middle">and hex editors.</text>
+  <text class="accent" x="400" y="295" text-anchor="middle">~ Win11 · CachyOS ~</text>
+</svg>
