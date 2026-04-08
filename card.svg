@@ -14,7 +14,7 @@
   <text class="body" x="400" y="118" text-anchor="middle">I'm currently building a game server emulator from scratch —</text>
   <text class="body" x="400" y="140" text-anchor="middle">reverse engineering client binaries, decoding network protocols,</text>
   <text class="body" x="400" y="162" text-anchor="middle">and reconstructing undocumented systems.</text>
-  <text class="body" x="400" y="208" text-anchor="middle">Currently working with C#, .NET, Node.js, and xUnit,</text>
+  <text class="body" x="400" y="208" text-anchor="middle">Currently working with C#, .NET, Node.js, xUnit, and Rust,</text>
   <text class="body" x="400" y="230" text-anchor="middle">spending most of my time somewhere between packet captures</text>
   <text class="body" x="400" y="252" text-anchor="middle">and hex editors.</text>
   <text class="accent" x="400" y="295" text-anchor="middle">~ Win11 · CachyOS ~</text>
